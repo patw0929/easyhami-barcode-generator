@@ -155,7 +155,7 @@ class App extends Component {
             </div>
 
             <div className="form-group col-xs-12 col-md-4">
-              <label htmlFor="rev">校對碼（2碼，純數字）</label>
+              <label htmlFor="rev">校對碼（2碼）</label>
               <input
                 type="text"
                 id="rev"
